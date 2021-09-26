@@ -1,0 +1,17 @@
+.main-area{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.card-area{
+    text-align: center;
+}
+.card-area img{
+    margin: auto;
+    border-radius: 50%;
+    margin-top:10px;
+    width: 130px;
+}
+.font-bold{
+    font-weight: bold;
+}
